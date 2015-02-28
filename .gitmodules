@@ -1,0 +1,42 @@
+[submodule "snipmate-snippets-rubymotion"]
+	path = snipmate-snippets-rubymotion
+	url = https://github.com/rcyrus/snipmate-snippets-rubymotion.git
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "vim-pasta"]
+	path = vim-pasta
+	url = https://github.com/sickill/vim-pasta.git
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git
+[submodule "vim-rake"]
+	path = vim-rake
+	url = https://github.com/tpope/vim-rake.git
+[submodule "vim-rbenv"]
+	path = vim-rbenv
+	url = https://github.com/tpope/vim-rbenv.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "vim-bufferline"]
+	path = vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
+[submodule "vim-preview"]
+	path = vim-preview
+	url = https://github.com/greyblake/vim-preview.git
+[submodule "ember.vim"]
+	path = ember.vim
+	url = https://github.com/dsawardekar/ember.vim.git
+[submodule "portkey"]
+	path = portkey
+	url = https://github.com/dsawardekar/portkey.git
+[submodule "vim-mode"]
+	path = vim-mode
+	url = https://github.com/mustache/vim-mode.git
+[submodule "EasyGrep"]
+	path = EasyGrep
+	url = https://github.com/vim-scripts/EasyGrep.git
